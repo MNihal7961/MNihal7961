@@ -44,16 +44,4 @@
   
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MNihal7961&theme=onedark&no-frame=true&margin-w=10&row=1" />
-</div>
-
 ###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNihal7961/MNihal7961/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNihal7961/MNihal7961/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNihal7961/MNihal7961/output/pacman-contribution-graph.svg">
-</picture>
